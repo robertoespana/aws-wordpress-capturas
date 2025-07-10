@@ -2,7 +2,7 @@
 Capturas proyecto aws wordpress HA
 ![Pasted image 20250709030558](https://github.com/user-attachments/assets/995e0fa2-592c-4e63-b903-25c76869647c)
 ![Pasted image 20250709004221](https://github.com/user-attachments/assets/909859b3-6686-4c41-881c-fcffbe2691ff)
-![Pasted image 20250709004027](https://github.com/user-attachments/assets/6e5601d2-313b-410a-b994-72c423d7da!c1)
+
 [Pasted image 20250709000729](https://github.com/user-attachments/assets/e5d72483-db6d-4d28-a149-407203d50763)
 ![Pasted image 20250708235925](https://github.com/user-attachments/assets/ed073915-3232-4b3a-8169-cfbd0d1fc891)
 ![Pasted image 20250709024720](https://github.com/user-attachments/assets/ec237256-4574-42de-bb8c-cd20f10c96c5)
